@@ -11,7 +11,7 @@ monitoring-friendly.
 .
 ├── logs/            # runtime log output (gitignored, not tracked)
 ├── script/
-│   └── mem-monitor.sh
+│   └── memory-monitor.sh
 └── README.md
 ```
 
